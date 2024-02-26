@@ -1,1 +1,1 @@
-# Doctor-Consultantcy-Fees-Prediction-
+# Doctor-Consultancy-Fees-Prediction-
